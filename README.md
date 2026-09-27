@@ -23,8 +23,14 @@ been started yet.
 
 File: `weak_feeder_ieee.slx` (MATLAB Simulink).
 
-GitHub can't render `.slx` files directly, so a screenshot of the model will be added
-here as the project develops.
+GitHub can't render `.slx` files directly. The screenshots below show the model as it
+currently stands.
+
+![Full feeder model](images/model_overview.png)
+
+Site 1's inverter/battery control logic (inside the Site1_Inverter_Battery subsystem):
+
+![Site 1 inverter and battery detail](images/site1_inverter_battery_detail.png)
 
 Topology:
 - LV source (415V, 50Hz), representing the point just after the MV/LV transformer
