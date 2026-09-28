@@ -1,0 +1,2 @@
+No PV: 2394 V (99.67% of nominal)
+With 6kW PV: 2501 V (~104.1% of nominal)
